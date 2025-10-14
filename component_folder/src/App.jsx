@@ -9,6 +9,7 @@ function App() {
         <Student name = "Patric" age = {35} isStudent = {false} />
         <Student name = "James" age = {13} isStudent = {true} />
         <Student name = "Sandy" age = {15} isStudent = {true} />
+        <Student />
       </div>
     </>
   )
