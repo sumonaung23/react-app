@@ -1,9 +1,10 @@
 import Button from "./Button"
+import UseEffect from "./UseEffect"
 
 function App() {
   return (
     <>
-      <Button />
+      <UseEffect />
     </>
   )
 }
